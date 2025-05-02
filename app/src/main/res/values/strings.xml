@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">CleanCompose</string>
+    <string name="app_name">LBG-Assessment</string>
+    <string name="products">Products</string>
+    <string name="product_details">Product Details</string>
+    <string name="description">Description : %1$s!</string>
+    <string name="price">Price : %1$s!</string>
 </resources>

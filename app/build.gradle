@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.composepoc'
+    namespace 'com.example.lbgassesment'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.composepoc"
+        applicationId "com.example.lbgassesment"
         minSdk 24
         targetSdk 33
         versionCode 1
