@@ -40,7 +40,6 @@ fun ProductDetailsScreen(
     navController: NavHostController,
     id: Int?
 ) {
-    val context = LocalContext.current
     val viewModel: ProductDetailVewModel = hiltViewModel()
     var result = viewModel.productDetail.value
 
