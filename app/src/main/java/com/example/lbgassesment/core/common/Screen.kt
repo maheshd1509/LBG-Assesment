@@ -1,4 +1,4 @@
-package com.example.lbgassesment.utils
+package com.example.lbgassesment.core.common
 
 import androidx.navigation.NavController
 
