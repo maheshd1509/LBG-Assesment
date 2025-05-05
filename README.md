@@ -1,5 +1,32 @@
 **Kotlin MVVM-Clean Architect-JetPack Compose-Example-with- DI-HILT, Coroutines, Retrofit** 
 
+**About the Project**
+
+Kotlin MVVM-Clean Architect-JetPack Compose-with- DI-Hilt is a project that presents a modern approach to Android app development. 
+The project tries to combine popular Android tools and to demonstrate best development practices by utilizing up to date tech-stack like Compose, Kotlin Flow and Hilt.
+The sample app layers its presentation through MVVM Clean Architecture presentation pattern.
+
+**Architecture**
+
+MVVM Clean Architecture -A reactive and layered architecture.
+Android Architecture components (ViewModel, Navigation)
+Android KTX - Jetpack Kotlin extension
+
+**UI**
+
+Compose declarative UI framework
+Material design
+
+**Tech Stacks**
+
+Kotlin 100% coverage
+Compose
+Dependency Injection (DI)-HILT
+Jetpack
+Flow
+Retrofit for networking
+Gson - A modern JSON library for Kotlin and Java.
+
 
 ![WhatsApp Image 2025-05-02 at 20 18 23](https://github.com/user-attachments/assets/0104f947-db57-41a4-9bbb-beea05e7ab0c)
 ![WhatsApp Image 2025-05-02 at 20 18 22](https://github.com/user-attachments/assets/afa329da-2971-4b47-877b-f8073c169512)
