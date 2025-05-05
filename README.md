@@ -9,7 +9,9 @@ The sample app layers its presentation through MVVM Clean Architecture presentat
 **Architecture**
 
 MVVM Clean Architecture -A reactive and layered architecture.
+
 Android Architecture components (ViewModel, Navigation)
+
 Android KTX - Jetpack Kotlin extension
 
 **UI**
@@ -20,11 +22,17 @@ Material design
 **Tech Stacks**
 
 Kotlin 100% coverage
+
 Compose
+
 Dependency Injection (DI)-HILT
+
 Jetpack
+
 Flow
+
 Retrofit for networking
+
 Gson - A modern JSON library for Kotlin and Java.
 
 
