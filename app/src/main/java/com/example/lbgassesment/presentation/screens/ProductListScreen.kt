@@ -23,9 +23,9 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavHostController
 import com.example.lbgassesment.R
+import com.example.lbgassesment.presentation.navigation.Screen.MainScreen.ProductDetails.toProductDetails
 import com.example.lbgassesment.presentation.screens.component.ListItem
 import com.example.lbgassesment.presentation.viewmodel.ProductListVewModel
-import com.example.lbgassesment.core.common.Screen.MainScreen.ProductDetails.toProductDetails
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

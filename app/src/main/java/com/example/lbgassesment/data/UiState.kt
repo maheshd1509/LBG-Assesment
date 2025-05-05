@@ -1,4 +1,4 @@
-package com.example.lbgassesment.core.common
+package com.example.lbgassesment.data
 
 sealed class UiState<T>(val data:  T?, val message : String?=null){
     class Success<T> (data: T?) : UiState<T>(data)

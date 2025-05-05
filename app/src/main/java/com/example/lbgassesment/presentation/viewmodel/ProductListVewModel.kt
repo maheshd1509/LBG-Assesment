@@ -4,7 +4,7 @@ import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.lbgassesment.core.common.UiState
+import com.example.lbgassesment.data.UiState
 import com.example.lbgassesment.domain.usecase.GetProductListUseCase
 import com.example.lbgassesment.presentation.state.ProductListState
 import dagger.hilt.android.lifecycle.HiltViewModel

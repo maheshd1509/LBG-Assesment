@@ -1,6 +1,6 @@
 package com.example.lbgassesment.data.di
 
-import com.example.lbgassesment.utils.Constant.BASE_URL
+import com.example.lbgassesment.data.Constant.BASE_URL
 import com.example.lbgassesment.data.netwotk.ApiService
 import com.example.lbgassesment.data.respository.RepositoryImpl
 import com.example.lbgassesment.domain.repository.Repository

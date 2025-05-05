@@ -1,6 +1,7 @@
-package com.example.lbgassesment.core.common
+package com.example.lbgassesment.presentation.navigation
 
 import androidx.navigation.NavController
+
 
 sealed class Screen(val screen: String) {
     object MainScreen : Screen("mainScreen") {

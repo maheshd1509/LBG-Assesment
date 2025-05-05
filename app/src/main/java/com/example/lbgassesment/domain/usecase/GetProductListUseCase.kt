@@ -1,6 +1,6 @@
 package com.example.lbgassesment.domain.usecase
 
-import com.example.lbgassesment.core.common.UiState
+import com.example.lbgassesment.data.UiState
 import com.example.lbgassesment.data.respository.RepositoryImpl
 import com.example.lbgassesment.domain.model.ProductItem
 import kotlinx.coroutines.Dispatchers

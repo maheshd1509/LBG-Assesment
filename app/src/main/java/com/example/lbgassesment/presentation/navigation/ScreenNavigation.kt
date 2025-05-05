@@ -8,7 +8,6 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.example.lbgassesment.presentation.screens.ProductDetailsScreen
 import com.example.lbgassesment.presentation.screens.ProductListScreen
-import com.example.lbgassesment.core.common.Screen
 
 @Composable
 fun ScreenNavigation() {

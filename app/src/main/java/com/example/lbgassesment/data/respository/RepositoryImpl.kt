@@ -1,7 +1,7 @@
 package com.example.lbgassesment.data.respository
 
-import com.example.lbgassesment.core.common.toProductDetail
-import com.example.lbgassesment.core.common.toProductList
+import com.example.lbgassesment.domain.model.toProductDetail
+import com.example.lbgassesment.domain.model.toProductList
 import com.example.lbgassesment.data.netwotk.ApiService
 import com.example.lbgassesment.domain.model.ProductDetail
 import com.example.lbgassesment.domain.model.ProductItem
