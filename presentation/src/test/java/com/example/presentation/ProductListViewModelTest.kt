@@ -1,7 +1,7 @@
-package com.example.lbgassesment;
+package com.example.presentation
 
-import com.example.lbgassesment.data.UiState
-import com.example.lbgassesment.domain.model.ProductItem
+import com.example.common.UiState
+import com.example.lbgassesment.data.model.ProductItem
 import com.example.lbgassesment.domain.usecase.GetProductListUseCase
 import com.example.lbgassesment.presentation.state.ProductListState
 import com.example.lbgassesment.presentation.viewmodel.ProductListVewModel

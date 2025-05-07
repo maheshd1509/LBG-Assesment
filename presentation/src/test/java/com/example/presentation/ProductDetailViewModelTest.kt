@@ -1,7 +1,7 @@
-package com.example.lbgassesment;
+package com.example.presentation
 
-import com.example.lbgassesment.data.UiState
-import com.example.lbgassesment.domain.model.ProductDetail
+import com.example.common.UiState
+import com.example.lbgassesment.data.model.ProductDetail
 import com.example.lbgassesment.domain.usecase.GetProductDetailUseCase
 import com.example.lbgassesment.presentation.state.ProductDetailState
 import com.example.lbgassesment.presentation.viewmodel.ProductDetailVewModel
@@ -26,7 +26,9 @@ class ProductDetailViewModelTest {
     @Before
     fun setup() {
         MockitoAnnotations.openMocks(this)
-        viewModel = ProductDetailVewModel(getProductDetailUseCase)
+        viewModel = ProductDetailVewModel(
+            getProductDetailUseCase
+        )
     }
 
     @Test
